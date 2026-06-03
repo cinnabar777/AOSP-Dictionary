@@ -15,7 +15,7 @@ I took the HeliBoard word list and purged it of:
 5. Spell checked it to remove misspelled words
 6. Removed extra meta data
 
-It went from ~14Mb to 3.4! The [dict file is here](https://github.com/cinnabar777/AOSP-Dictionary/blob/main/Personal_Dic/HeliBoard_trimmed.dict) and the [cleaned word list is here](https://github.com/cinnabar777/AOSP-Dictionary/blob/main/Personal_Dic/HeliBoard_trimmed.txt), in the personal folder.
+It went from ~14Mb to 3.4! The [dict file is here](https://github.com/cinnabar777/AOSP-Dictionary/blob/main/Personal_Dic/HeliBoard_trimmed.dict) and the [cleaned word list is here](https://github.com/cinnabar777/AOSP-Dictionary/blob/main/Personal_Dic/HeliBoard_trimmed.txt), in the personal folder along with trimmed versions of the experimental dictionary.
 
 
 

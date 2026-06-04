@@ -6,3 +6,22 @@ No doubt it is missing words, but considering that the top 1,000 words account f
 
 I personally feel this is the maximum size I want to use with glide typing, actually about 15k is more like it but it is what it is. 
 
+
+# AOSP-DICTIONARY 
+
+A usable dict file for those wanting an AOSP dictionary that's not massive and filled with acronyms and capitalized words: 
+
+I took the HeliBoard word list and purged it of:
+
+1. All all cap words
+2. Capitalized words with f=130 and lower
+3. Removed cap words from bigrams 
+4. All words below f=10
+5. Spell checked it to remove misspelled words
+6. Removed extra meta data
+
+It went from ~14Mb to 3.4! The [dict file is here](https://github.com/cinnabar777/AOSP-Dictionary/blob/main/Personal_Dic/HeliBoard_trimmed.dict) and the [cleaned word list is here](https://github.com/cinnabar777/AOSP-Dictionary/blob/main/Personal_Dic/HeliBoard_trimmed.txt), in the personal folder along with trimmed versions of the experimental dictionary.
+
+
+
+

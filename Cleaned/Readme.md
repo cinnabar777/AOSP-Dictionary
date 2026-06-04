@@ -13,3 +13,15 @@ I took the HeliBoard word list and purged it of:
 6. Removed extra meta data
 
 This folder contains both the default and experimental HeliBoard dictionaries. 
+
+
+# UNIFIED
+
+The unified files combine the HeliBoard main and experimental with the FUTO keyboard dictionary, then"cleaned" as above, removed low level words..., and instead of removing all the capitalized words I reduced their rank to f=1, after discussion with Gemini this seemed the best option to minimize capitalized words constantly being suggested on FUTO keyboard, as it doesn't handle offensive words like AOSP keyboard do, it totally and permanently blocks them. 
+
+
+
+
+
+
+

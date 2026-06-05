@@ -25,7 +25,9 @@ FUTO keyboard does not seem to adhere to the offensive block, some words are blo
 
 I set the offensive flag to AOSP standard with all words that are flagged to f=0, but an exact gesture will most likely bring up the word.
 
+# UPDATE
 
+According to FUTO keyboard developers the offensive flag in the dictionary is not used, instead they rely on a Java list of words. 
 
 
 

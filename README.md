@@ -1,6 +1,6 @@
 # AOSP-Dictionary
 
-Test Dictionary files. 
+Test Dictionary files for AOSP keyboard: FUTO keyboard, HeliBoard... 
 
 Most of the files here are word lists created from dictionaries, broken up into groups, for anyone wanting to create their own dictionary. There are a couple test dict files, tiny and big, that were used to test frequency behavior.
 

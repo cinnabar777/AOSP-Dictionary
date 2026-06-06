@@ -27,7 +27,13 @@ I set the offensive flag to AOSP standard with all words that are flagged to f=0
 
 # UPDATE
 
-According to FUTO keyboard developers the offensive flag in the dictionary is not used, instead they rely on a Java list of words. 
+According to FUTO keyboard developers the offensive flag in the dictionary is not used, instead they rely on a Java list of words. Furthermore, FUTO keyboard doesn't really apply the f= especially lower numbers like 0 & 1, words ranked that low are just as likely to be suggested as any other. Therefore I've given up, for now, on trying to make a comprehensive dictionary for FUTO keyboard and I'll be using one of the small ones in the main repository, as that seems to be the only way to reduce the onslaught of word suggestions that I'll never use. 
+
+
+
+
+
+
 
 
 

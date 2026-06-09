@@ -17,6 +17,7 @@ I took the HeliBoard word lists and purged them of:
 
 You can find them in the "cleaned" folder. 
 
+Note: currently FUTO keyboard does not hide words that are f=0 and it generally suggests words with very low f#, therefore, there isn't a way to have a comprehensive dictionary without deteriorating glide typing, therefore, it's best for glide typing to use a smaller more focused dictionary. 
 
 
 

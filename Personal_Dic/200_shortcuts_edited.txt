@@ -1,0 +1,199 @@
+ word=nave,f=108,whitelist=have
+  shortcut=have,f=whitelist
+ word=lets,f=106
+  shortcut=let's,f=whitelist
+ word=id,f=99
+  shortcut=I'd,f=whitelist
+ word=oft,f=89,whitelist=off
+  shortcut=off,f=whitelist
+ word=nee,f=80,whitelist=new
+  shortcut=new,f=whitelist
+ word=fora,f=73
+  shortcut=for a,f=whitelist
+ word=goo,f=72,whitelist=too
+  shortcut=too,f=whitelist
+ word=cant,f=70
+  shortcut=can't,f=whitelist
+ word=fife,f=70,whitelist=five
+  shortcut=five,f=whitelist
+ word=dormer,f=67,whitelist=former
+  shortcut=former,f=whitelist
+ word=tine,f=60,whitelist=time
+  shortcut=time,f=whitelist
+ word=manu,f=59,whitelist=many
+  shortcut=many,f=whitelist
+ word=nit,f=59
+  shortcut=not,f=whitelist
+ word=hew,f=55,whitelist=new
+  shortcut=new,f=whitelist
+ word=shel,f=0,not_a_word=true
+  shortcut=she'll,f=whitelist
+ word=mew,f=51,whitelist=new
+  shortcut=new,f=whitelist
+ word=fay,f=50,whitelist=day
+  shortcut=day,f=whitelist
+ word=wont,f=50
+  shortcut=won't,f=whitelist
+ word=galled,f=41,whitelist=called
+  shortcut=called,f=whitelist
+ word=motes,f=41
+  shortcut=notes,f=whitelist
+ word=hel,f=39
+  shortcut=he'll,f=whitelist
+ word=whys,f=39
+  shortcut=why's,f=whitelist
+ word=hows,f=35
+  shortcut=how's,f=whitelist
+ word=namer,f=35,whitelist=named
+  shortcut=named,f=whitelist
+ word=acomodate,f=0,not_a_word=true
+  shortcut=accommodate,f=whitelist
+ word=aint,f=0,not_a_word=true
+  shortcut=ain't,f=whitelist
+ word=alot,f=0,not_a_word=true
+  shortcut=a lot,f=whitelist
+ word=atleast,f=0,not_a_word=true
+  shortcut=at least,f=whitelist
+ word=amd,f=0,not_a_word=true
+  shortcut=and,f=whitelist
+ word=andteh,f=0,not_a_word=true
+  shortcut=and the,f=whitelist
+ word=arent,f=0,not_a_word=true
+  shortcut=aren't,f=whitelist
+ word=didint,f=0,not_a_word=true
+  shortcut=didn't,f=whitelist
+ word=hed,f=0,not_a_word=true
+  shortcut=he'd,f=whitelist
+ word=heres,f=0,not_a_word=true
+  shortcut=here's,f=whitelist
+ word=howd,f=0,not_a_word=true
+  shortcut=how'd,f=whitelist
+ word=howll,f=0,not_a_word=true
+  shortcut=how'll,f=whitelist
+ word=howve,f=0,not_a_word=true
+  shortcut=how've,f=whitelist
+ word=i,f=0,not_a_word=true
+  shortcut=I,f=whitelist
+ word=il,f=0,not_a_word=true
+  shortcut=I'll,f=whitelist
+ word=im,f=0,not_a_word=true
+  shortcut=I'm,f=whitelist
+ word=inteh,f=0,not_a_word=true
+  shortcut=in the,f=whitelist
+ word=itd,f=0,not_a_word=true
+  shortcut=it'd,f=whitelist
+ word=itsa,f=0,not_a_word=true
+  shortcut=it's a,f=whitelist
+ word=maam,f=0,not_a_word=true
+  shortcut=ma'am,f=whitelist
+ word=mot,f=0,not_a_word=true
+  shortcut=not,f=whitelist
+ word=mote,f=0,not_a_word=true
+  shortcut=note,f=whitelist
+ word=os,f=0,not_a_word=true
+  shortcut=is,f=whitelist
+ word=shouldent,f=0,not_a_word=true
+  shortcut=shouldn't,f=whitelist
+ word=thatd,f=0,not_a_word=true
+  shortcut=that'd,f=whitelist
+ word=uf,f=0,not_a_word=true
+  shortcut=if,f=whitelist
+ word=un,f=0,not_a_word=true
+  shortcut=in,f=whitelist
+ word=unitedstates,f=0,not_a_word=true
+  shortcut=United States,f=whitelist
+ word=visavis,f=0,not_a_word=true
+  shortcut=vis-a-vis,f=whitelist
+ word=wer,f=0,not_a_word=true
+  shortcut=we're,f=whitelist
+ word=whatd,f=0,not_a_word=true
+  shortcut=what'd,f=whitelist
+ word=whatre,f=0,not_a_word=true
+  shortcut=what're,f=whitelist
+ word=whered,f=0,not_a_word=true
+  shortcut=where'd,f=whitelist
+ word=wherell,f=0,not_a_word=true
+  shortcut=where'll,f=whitelist
+ word=wheres,f=0,not_a_word=true
+  shortcut=where's,f=whitelist
+ word=wholl,f=0,not_a_word=true
+  shortcut=who'll,f=whitelist
+ word=whove,f=0,not_a_word=true
+  shortcut=who've,f=whitelist
+ word=whyd,f=0,not_a_word=true
+  shortcut=why'd,f=whitelist
+ word=whyll,f=0,not_a_word=true
+  shortcut=why'll,f=whitelist
+ word=whyve,f=0,not_a_word=true
+  shortcut=why've,f=whitelist
+ word=wierd,f=0,not_a_word=true
+  shortcut=weird,f=whitelist
+ word=yall,f=0,not_a_word=true
+  shortcut=y'all,f=whitelist
+ word=youd,f=0,not_a_word=true
+  shortcut=you'd,f=whitelist
+
+
+ word=omw,f=12
+  shortcut=on my way   
+
+
+ word=ai,f=0
+  shortcut=AI
+ word=a'm,f=0
+  shortcut=a.m.
+ word=p'm,f=0
+  shortcut=p.m.
+ word=u's,f=0
+  shortcut=U.S.
+ word=e'g,f=0
+  shortcut=e.g.
+ word=i'e,f=0
+  shortcut=i.e.
+ word=vs',f=0
+  shortcut=vs.
+ word=fk,f=0
+  shortcut=FUTO keyboard
+ word=pq',f=0
+  shortcut=Phineas Parkhurst Quimby
+ word=mok,f=0
+  shortcut=Multiling O Keyboard
+ word=ud'm,f=0
+  shortcut=User Dictionary Manager (UDM)
+ word=,f=0
+  shortcut=
+ word=,f=0
+  shortcut=
+
+
+
+
+
+
+
+
+
+
+ word=disroot.org,f=0
+ word=CRS,f=0
+ word=ClearFlow,f=0
+ word=Anthony,f=0
+ word=Estella,f=0
+ word=Erdmann,f=0
+ word=Mello,f=0
+ word=TX,f=0
+ word=AZ,f=0
+ word=amazon.com,f=0
+ word=ammoseek.com,f=0
+ word=duckduckgo.com,f=0
+ word=f-droid.org,f=0
+ word=github.com,f=0
+ word=google.com,f=0
+ word=mojeek.com,f=0
+ word=odysee.com,f=0
+ word=searx.org,f=0
+ word=startpage.com,f=0
+ word=themoviedb.org,f=0
+ word=trakt.tv,f=0
+ word=webmail.disroot.org,f=0
+ 
